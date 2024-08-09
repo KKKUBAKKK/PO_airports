@@ -1,0 +1,240 @@
+24/04/2024 08:51:44 - Server started
+24/04/2024 08:51:45 - AirportObject ID changed
+	 ID: 10 -> 10
+24/04/2024 08:51:45 - AirportObject ID changed
+	 ID: 55 -> 1631
+24/04/2024 08:51:45 - AirportObject ID changed
+	 ID: 340 -> 2209
+24/04/2024 08:51:46 - AirportObject ID changed
+	 ID: 457 -> 1236
+24/04/2024 08:51:46 - AirportObject ID changed
+	 ID: 506 -> 2033
+24/04/2024 08:51:46 - AirportObject ID changed
+	 ID: 147 -> 2401
+24/04/2024 08:51:46 - AirportObject ID changed
+	 ID: 574 -> 1962
+24/04/2024 08:51:47 - AirportObject ID changed
+	 ID: 1070 -> 1579
+24/04/2024 08:51:47 - AirportObject ID changed
+	 ID: 618 -> 1158
+24/04/2024 08:51:48 - No object with id: 1326 to be changed in database
+24/04/2024 08:51:48 - AirportObject ID changed
+	 ID: 104 -> 1315
+24/04/2024 08:51:48 - No object with id: 1472 to be changed in database
+24/04/2024 08:51:48 - No object with id: 1392 to be changed in database
+24/04/2024 08:51:49 - No object with id: 1481 to be changed in database
+24/04/2024 08:51:49 - AirportObject ID changed
+	 ID: 182 -> 1005
+24/04/2024 08:51:49 - AirportObject ID changed
+	 ID: 29 -> 2089
+24/04/2024 08:51:49 - No object with id: 1485 to be changed in database
+24/04/2024 08:51:50 - AirportObject ID changed
+	 ID: 499 -> 1329
+24/04/2024 08:51:50 - No object with id: 1475 to be changed in database
+24/04/2024 08:51:50 - AirportObject ID changed
+	 ID: 171 -> 2098
+24/04/2024 08:51:51 - AirportObject ID changed
+	 ID: 357 -> 2203
+24/04/2024 08:51:51 - AirportObject ID changed
+	 ID: 358 -> 1027
+24/04/2024 08:51:51 - No object with id: 1347 to be changed in database
+24/04/2024 08:51:52 - AirportObject ID changed
+	 ID: 962 -> 1527
+24/04/2024 08:51:52 - AirportObject ID changed
+	 ID: 627 -> 1561
+24/04/2024 08:51:52 - AirportObject ID changed
+	 ID: 792 -> 1234
+24/04/2024 08:51:53 - AirportObject ID changed
+	 ID: 650 -> 2321
+24/04/2024 08:51:53 - No object with id: 1431 to be changed in database
+24/04/2024 08:51:53 - AirportObject ID changed
+	 ID: 740 -> 2215
+24/04/2024 08:51:54 - AirportObject ID changed
+	 ID: 475 -> 1630
+24/04/2024 08:51:54 - Flight with ID: 1073 position changed
+	 Longitude: 123,46 -> -145,21829
+	 Latitude: 1,06 -> -87,924355
+	 AMSL: 11982 -> 292,1136
+24/04/2024 08:51:54 - Flight with ID: 1036 position changed
+	 Longitude: 41,5 -> -115,52941
+	 Latitude: 52,68 -> -65,998566
+	 AMSL: 12895 -> 7409,812
+24/04/2024 08:51:54 - Flight with ID: 1103 position changed
+	 Longitude: 9,976379 -> -67,17546
+	 Latitude: -9,926019 -> -59,330032
+	 AMSL: 11091 -> 3202,3145
+24/04/2024 08:51:55 - Flight with ID: 1088 position changed
+	 Longitude: 71,95163 -> 48,47077
+	 Latitude: 44,242687 -> 27,736376
+	 AMSL: 11311 -> 9320,949
+24/04/2024 08:51:55 - Flight with ID: 1000 position changed
+	 Longitude: 123,46 -> 15,235422
+	 Latitude: 1,06 -> 53,14479
+	 AMSL: 12584 -> 9944,197
+24/04/2024 08:51:55 - Flight with ID: 1175 position changed
+	 Longitude: 64,649864 -> -55,384537
+	 Latitude: 40,56604 -> 87,035736
+	 AMSL: 11336 -> 2779,9148
+24/04/2024 08:51:55 - Flight with ID: 1008 position changed
+	 Longitude: 175,55 -> 96,664536
+	 Latitude: 15,54 -> 56,606426
+	 AMSL: 12124 -> 457,798
+24/04/2024 08:51:56 - Flight with ID: 1013 position changed
+	 Longitude: 175,55 -> -146,93097
+	 Latitude: 15,54 -> 54,21434
+	 AMSL: 10155 -> 7967,9062
+24/04/2024 08:51:56 - Flight with ID: 984 position changed
+	 Longitude: 41,5 -> -171,53268
+	 Latitude: 52,68 -> -73,83688
+	 AMSL: 10907 -> 4522,8696
+24/04/2024 08:51:56 - Flight with ID: 1143 position changed
+	 Longitude: -32,566956 -> -5,95481
+	 Latitude: 58,8637 -> -6,869265
+	 AMSL: 10691 -> 9238,392
+24/04/2024 08:51:56 - Flight with ID: 980 position changed
+	 Longitude: 41,5 -> -82,12707
+	 Latitude: 52,68 -> 1,479755
+	 AMSL: 9969 -> 444,67447
+24/04/2024 08:51:57 - Flight with ID: 1019 position changed
+	 Longitude: 122,83 -> -18,238646
+	 Latitude: -14,646637 -> 63,14051
+	 AMSL: 12892 -> 5672,0625
+24/04/2024 08:51:57 - Flight with ID: 1073 position changed
+	 Longitude: -145,21829 -> -108,147354
+	 Latitude: -87,924355 -> 27,09598
+	 AMSL: 292,1136 -> 3119,7957
+24/04/2024 08:51:58 - Flight with ID: 1036 position changed
+	 Longitude: -51,733643 -> -103,43464
+	 Latitude: -60,158375 -> 60,96732
+	 AMSL: 7409,812 -> 4672,3745
+24/04/2024 08:51:58 - Flight with ID: 1103 position changed
+	 Longitude: 77,31471 -> -161,88493
+	 Latitude: -68,83731 -> -79,42511
+	 AMSL: 3202,3145 -> 777,99915
+24/04/2024 08:51:58 - Flight with ID: 1088 position changed
+	 Longitude: 86,09751 -> -140,51558
+	 Latitude: 24,125223 -> 81,17543
+	 AMSL: 9320,949 -> 7980,634
+24/04/2024 08:51:58 - Flight with ID: 1000 position changed
+	 Longitude: 15,235422 -> -133,23634
+	 Latitude: 53,14479 -> -13,053079
+	 AMSL: 9944,197 -> 6928,403
+24/04/2024 08:51:59 - Flight with ID: 1175 position changed
+	 Longitude: -13,820184 -> 148,0308
+	 Latitude: 72,29655 -> -66,756035
+	 AMSL: 2779,9148 -> 5280,3286
+24/04/2024 08:51:59 - Flight with ID: 1008 position changed
+	 Longitude: 91,407845 -> -54,132835
+	 Latitude: 56,23231 -> -10,536424
+	 AMSL: 457,798 -> 2296,8306
+24/04/2024 08:51:59 - Flight with ID: 1013 position changed
+	 Longitude: 175,55 -> 33,84093
+	 Latitude: 15,54 -> 81,83095
+	 AMSL: 7967,9062 -> 676,9015
+24/04/2024 08:52:00 - Flight with ID: 984 position changed
+	 Longitude: 41,5 -> 20,370777
+	 Latitude: 52,68 -> -67,73591
+	 AMSL: 4522,8696 -> 2567,2583
+24/04/2024 08:52:00 - Flight with ID: 1143 position changed
+	 Longitude: 26,27843 -> -0,749077
+	 Latitude: 33,579075 -> 20,052593
+	 AMSL: 9238,392 -> 7839,941
+24/04/2024 08:52:00 - Flight with ID: 980 position changed
+	 Longitude: 41,5 -> 139,57149
+	 Latitude: 52,68 -> 63,623093
+	 AMSL: 444,67447 -> 276,91754
+24/04/2024 08:52:01 - Flight with ID: 1019 position changed
+	 Longitude: 82,201096 -> 97,861275
+	 Latitude: 13,886183 -> -53,845642
+	 AMSL: 5672,0625 -> 3756,995
+24/04/2024 08:52:01 - Flight with ID: 1073 position changed
+	 Longitude: -92,160614 -> 47,96795
+	 Latitude: 26,444746 -> -5,012481
+	 AMSL: 3119,7957 -> 5423,5605
+24/04/2024 08:52:02 - Flight with ID: 1036 position changed
+	 Longitude: -4,126484 -> -24,074
+	 Latitude: 22,288303 -> -12,826984
+	 AMSL: 4672,3745 -> 6723,151
+24/04/2024 08:52:02 - Flight with ID: 1103 position changed
+	 Longitude: 113,68 -> -108,28665
+	 Latitude: -71,23 -> -70,61774
+	 AMSL: 777,99915 -> 2954,6252
+24/04/2024 08:52:02 - Flight with ID: 1088 position changed
+	 Longitude: 6,3147087 -> -169,05829
+	 Latitude: 50,68401 -> -8,535289
+	 AMSL: 7980,634 -> 1039,7069
+24/04/2024 08:52:03 - Flight with ID: 1000 position changed
+	 Longitude: -81,65681 -> 140,71909
+	 Latitude: -7,54397 -> -83,64768
+	 AMSL: 6928,403 -> 1392,2837
+24/04/2024 08:52:03 - Flight with ID: 1175 position changed
+	 Longitude: 59,096863 -> 155,66397
+	 Latitude: 32,951416 -> 13,467536
+	 AMSL: 5280,3286 -> 4464,936
+24/04/2024 08:52:04 - Flight with ID: 1008 position changed
+	 Longitude: 37,50701 -> 13,895434
+	 Latitude: 50,040504 -> -63,151962
+	 AMSL: 2296,8306 -> 6397,2964
+24/04/2024 08:52:04 - Flight with ID: 1013 position changed
+	 Longitude: 175,55 -> 32,557625
+	 Latitude: 15,54 -> 2,161791
+	 AMSL: 676,9015 -> 2058,9192
+24/04/2024 08:52:04 - Flight with ID: 984 position changed
+	 Longitude: 41,5 -> 35,00642
+	 Latitude: 52,68 -> -27,659632
+	 AMSL: 2567,2583 -> 92,23284
+24/04/2024 08:52:05 - Flight with ID: 1143 position changed
+	 Longitude: 41,5 -> -149,48839
+	 Latitude: 52,68 -> 20,7811
+	 AMSL: 7839,941 -> 2120,0967
+24/04/2024 08:52:05 - Flight with ID: 980 position changed
+	 Longitude: 41,5 -> -56,339127
+	 Latitude: 52,68 -> 42,637367
+	 AMSL: 276,91754 -> 9883,734
+24/04/2024 08:52:06 - Flight with ID: 1019 position changed
+	 Longitude: 88,78 -> -4,987317
+	 Latitude: 10,66 -> 21,58896
+	 AMSL: 3756,995 -> 9201,4375
+24/04/2024 08:52:06 - Contact info for person with ID: 234 changed
+	 Email: jasoncook3575@gmail.com -> hjghjchbxjgb@abilitys.site
+	 Phone: 366-468-9423 -> 382-227-2487
+24/04/2024 08:52:06 - Contact info for person with ID: 102 changed
+	 Email: scottalvarez8287@gmail.com -> nebolondicsal@nguyenvuquocanh.com
+	 Phone: 615-473-6079 -> 383-287-1506
+24/04/2024 08:52:07 - Contact info for person with ID: 265 changed
+	 Email: tonyvazquez4853@gmail.com -> nekropolis@becknellsbakery.com
+	 Phone: 126-187-5198 -> 320-401-1385
+24/04/2024 08:52:07 - Contact info for person with ID: 156 changed
+	 Email: rebeccataylor6473@gmail.com -> vicay2006@ebarg.net
+	 Phone: 306-563-6137 -> 153-734-8335
+24/04/2024 08:52:07 - Contact info for person with ID: 163 changed
+	 Email: johnjohnson2797@gmail.com -> judsuss@naverly.com
+	 Phone: 995-001-7129 -> 633-644-7562
+24/04/2024 08:52:08 - Contact info for person with ID: 264 changed
+	 Email: coreythomas2128@gmail.com -> gr8find@abilitys.site
+	 Phone: 134-860-8927 -> 505-331-4035
+24/04/2024 08:52:08 - Contact info for person with ID: 157 changed
+	 Email: brianstephens694@gmail.com -> jaclyn78@abilitys.site
+	 Phone: 158-552-8728 -> 132-878-5307
+24/04/2024 08:52:08 - Contact info for person with ID: 261 changed
+	 Email: sarahhobbs1352@gmail.com -> shaitis@centromedicoesteticodsagas.com
+	 Phone: 974-420-5409 -> 430-361-7186
+24/04/2024 08:52:08 - Contact info for person with ID: 251 changed
+	 Email: rebeccadean4758@gmail.com -> eyon@btcmod.com
+	 Phone: 833-252-8126 -> 385-172-2321
+24/04/2024 08:52:09 - No object with id: 171 in database
+24/04/2024 08:52:09 - Contact info for person with ID: 115 changed
+	 Email: philipbell3773@gmail.com -> bevzsergey1972@domiaaan2.online
+	 Phone: 463-722-9752 -> 635-084-5411
+24/04/2024 08:52:09 - Contact info for person with ID: 144 changed
+	 Email: paulmiller1295@gmail.com -> ertan4@villastream.xyz
+	 Phone: 614-203-0297 -> 076-370-5877
+24/04/2024 08:52:09 - Contact info for person with ID: 154 changed
+	 Email: aaronbeasley2512@gmail.com -> voteforpablo@dealyaari.com
+	 Phone: 906-465-6730 -> 885-053-2101
+24/04/2024 08:52:10 - Contact info for person with ID: 281 changed
+	 Email: kristenpeterson4653@gmail.com -> saver7@degioparfume.com
+	 Phone: 626-752-6781 -> 784-272-4668
+24/04/2024 08:52:10 - Contact info for person with ID: 131 changed
+	 Email: makaylavillanueva2283@gmail.com -> strobl@rhafhamed.online
+	 Phone: 442-521-4222 -> 070-023-1168

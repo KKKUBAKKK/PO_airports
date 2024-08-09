@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PO_airports", "PO_airports\PO_airports.csproj", "{D3182F4C-1141-4C62-825A-9A74A3749302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3182F4C-1141-4C62-825A-9A74A3749302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3182F4C-1141-4C62-825A-9A74A3749302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3182F4C-1141-4C62-825A-9A74A3749302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3182F4C-1141-4C62-825A-9A74A3749302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
